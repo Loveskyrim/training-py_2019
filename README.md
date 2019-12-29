@@ -1,1 +1,1 @@
-# training-py_2019
+It's test project
